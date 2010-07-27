@@ -1,0 +1,11 @@
+Package: iQTL
+Type: Package
+Title: Genome-wide QTL Mapping via H-likelihood
+Version: 2010.1
+Date: 2010-07-26
+Author: Xia Shen
+Maintainer: Xia Shen <xia.shen@lcb.uu.se>
+Description: This package provides an R implementation of the double hierarchical generalized linear model (DHGLM) particularly for analyzing genome-wide marker data.
+License: Unlimited
+LazyLoad: yes
+Depends: VGAM

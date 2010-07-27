@@ -1,0 +1,16 @@
+% $Id: hglm.Rnw $
+
+%\VignetteIndexEntry{The iQTL Package}
+%\VignetteKeywords{iQTL}
+%\VignettePackage{iQTL}
+
+\documentclass{article}
+
+\usepackage{pdfpages}
+
+\begin{document}
+
+\includepdf[pages={1-10}, fitpaper=true]{iQTLmanual.pdf}
+
+\end{document}
+
