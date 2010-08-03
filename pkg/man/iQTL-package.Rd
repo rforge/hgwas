@@ -33,11 +33,12 @@ Xia Shen, Lars Ronnegard and Orjan Carlborg (2010): Hierarchical likelihood open
 %~~ the R documentation directory ~~
 \keyword{GWAS, QTL, DHGLM, h-likelihood}
 \seealso{
-\code{\link{h.GWAS}}
+\code{\link{h.GWAS}}, \code{\link{h.testQTL}}
 %~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
 \dontrun{
+
 ## data
 
 data(snpid)
@@ -81,5 +82,6 @@ abline(v = border.idx, lty = 2, col = 'green4')
 plot(marker.id, GWAS$lambda, xlab = 'Marker index', 
 	ylab = 'Marker dispersion', type = 'l', col = 2, bty = 'n')
 abline(v = border.idx, lty = 2, col = 'green4')
+
 }
 }
