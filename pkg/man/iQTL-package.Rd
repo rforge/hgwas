@@ -14,7 +14,7 @@ Package: \tab iQTL\cr
 Type: \tab Package\cr
 Version: \tab 2010.1\cr
 Date: \tab 2010-07-26\cr
-License: \tab Unlimited\cr
+License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 Depends: \tab VGAM\cr
 }

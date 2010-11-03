@@ -6,6 +6,6 @@ Date: 2010-07-26
 Author: Xia Shen
 Maintainer: Xia Shen <xia.shen@lcb.uu.se>
 Description: This package provides an R implementation of the double hierarchical generalized linear model (DHGLM) particularly for analyzing genome-wide marker data.
-License: Unlimited
+License: GPL
 LazyLoad: yes
 Depends: VGAM
