@@ -12,11 +12,11 @@ This package provides an R implementation of the double hierarchical generalized
 \tabular{ll}{
 Package: \tab iQTL\cr
 Type: \tab Package\cr
-Version: \tab 2010.1\cr
-Date: \tab 2010-07-26\cr
+Version: \tab 2013.05.03\cr
+Date: \tab 2013-05-03\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
-Depends: \tab VGAM\cr
+Depends: \tab VGAM, utils\cr
 }
 % ~~ An overview of how to use the package, including the most important ~~
 % ~~ functions ~~
@@ -24,10 +24,10 @@ Depends: \tab VGAM\cr
 \author{
 Xia Shen
 
-Maintainer: Xia Shen <xia.shen@lcb.uu.se>
+Maintainer: Xia Shen <xia.shen@slu.se>
 }
 \references{
-Xia Shen, Lars Ronnegard and Orjan Carlborg (2010): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. (14th QTLMAS, Poznan, Poland) SUBMITTED.
+Shen X, Ronnegard L and Carlborg O (2011): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. BMC Proceedings, 5(Suppl 3):S14.
 }
 %~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
 %~~ the R documentation directory ~~

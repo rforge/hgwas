@@ -22,8 +22,9 @@ Typically, for an intercross, at a particular marker, there are three kinds of g
 \value{
 Screen print-out giving the score test statistic value and the p-value.
 }
-%\references{
-%}
+\references{
+Shen X, Ronnegard L and Carlborg O (2011): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. BMC Proceedings, 5(Suppl 3):S14.
+}
 \author{
 Xia Shen
 }

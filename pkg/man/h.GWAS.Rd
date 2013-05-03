@@ -47,7 +47,7 @@ It is recommended that \code{ac.mat} is created according to the linkage disequi
   \item{niter}{the number of iterations taken in the IWLS algorithm.}
 }
 \references{
-Xia Shen, Lars Ronnegard and Orjan Carlborg (2010): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. (14th QTLMAS, Poznan, Poland) SUBMITTED.
+Shen X, Ronnegard L and Carlborg O (2011): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. BMC Proceedings, 5(Suppl 3):S14.
 }
 \author{
 Xia Shen

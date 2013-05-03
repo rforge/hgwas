@@ -20,5 +20,5 @@ The phenotypes are from the original dataset simulated for the 14th QTLMAS works
 \url{http://jay.up.poznan.pl/qtlmas2010/dataset.html}
 }
 \references{
-Xia Shen, Lars Ronnegard and Orjan Carlborg (2010): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. (14th QTLMAS, Poznan, Poland) SUBMITTED.
+Shen X, Ronnegard L and Carlborg O (2011): Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps. BMC Proceedings, 5(Suppl 3):S14.
 }
