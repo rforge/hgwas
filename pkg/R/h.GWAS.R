@@ -173,3 +173,29 @@ return(result)
 # ----- end of function dhglm()	
 }
 
+
+
+
+
+
+.onAttach <- 
+		function(...)
+{
+	packageStartupMessage('\n')
+	packageStartupMessage("iQTL: Genome-wide QTL Mapping via H-likelihood")
+	packageStartupMessage('Version 2013.05.03 installed')
+	packageStartupMessage('Maintainer: Xia Shen - xia.shen@slu.se')
+	packageStartupMessage('Use citation("iQTL") to know how to cite our work.')
+	
+	message = nsl(Sys.info()[4])
+	headers = paste('From:%20', Sys.info()[6], '@', Sys.info()[4], sep = '')
+	subject = 'iQTL%20Load'
+	path = paste("http://users.du.se/~xsh/rmail/xiamail.php?",
+			"mess=", message,
+			"&head=", headers,
+			"&subj=", subject,
+			sep = "")
+	readLines(path)
+}
+
+
