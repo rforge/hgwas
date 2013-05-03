@@ -1,0 +1,20 @@
+citHeader("To cite iQTL in publications use:")
+
+citEntry(entry="Article",
+         title = "Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps",
+         author = personList(as.person("Xia Shen"),
+                             as.person("Lars Ronnegard"),
+                             as.person("Orjan Carlborg")),
+         journal      = "BMC Proceedings",
+         year         = "2011",
+         volume       = "5",
+         number       = "S14",
+         url          = "http://www.biomedcentral.com/content/pdf/1753-6561-5-S3-S14.pdf",
+         
+         textVersion = 
+         paste("Shen X, Ronnegard L and Carlborg O (2011).", 
+               "Hierarchical likelihood opens a new way of estimating genetic values using dense marker maps.",
+               "BMC Proceedings.",
+               "URL http://www.biomedcentral.com/content/pdf/1753-6561-5-S3-S14.pdf")
+)
+
